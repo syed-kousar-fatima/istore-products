@@ -9,7 +9,7 @@ import { Link } from "react-router-dom";
 import { iphones } from "../../data/iphones";
 import AuroraBackground from "../ui/AuroraBackground";
 import FloatingElements from "../ui/FloatingElements";
-import Spotlight from "../ui/Spotlight";
+import Spotlight from "../ui/SpotLight";
 import AnimatedText from "../ui/AnimatedText";
 
 const Hero = () => {
